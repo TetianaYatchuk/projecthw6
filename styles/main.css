@@ -1,0 +1,87 @@
+* {
+  box-sizing: border-box;
+}
+
+/* .block {
+  width:890px;
+  text-align: right;
+} */
+
+.block {
+  margin-left: 500px;
+  margin-right: 400px;
+}
+
+.block .card,
+.card1,
+.card2,
+.card3,
+.card4,
+.card5,
+.card6,
+.card7,
+.card8 {
+  display: inline-block;
+  text-align: center;
+  width: 200px;
+  margin: 30px;
+}
+
+h3 {
+  font-size: 18px;
+  font-family: Roboto;
+  font-style: italic;
+  font-weight: 700;
+  line-height: 22px;
+  padding-bottom: 10px;
+}
+
+p {
+  font-size: 12px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 18px;
+  margin-bottom: 18px;
+}
+
+.block .card {
+  background: coral;
+}
+
+.block .card1 {
+  background: lightblue;
+}
+
+.block .card2 {
+  background: rosybrown;
+}
+
+.block .card3 {
+  background: lightgreen;
+}
+
+.block .card4 {
+  background: lightskyblue;
+}
+
+.block .card5 {
+  background: lightcyan;
+}
+
+.block .card6 {
+  background: lightgoldenrodyellow;
+}
+
+.block .card7 {
+  background: lightgray;
+}
+
+.block .card8 {
+  background: lightseagreen;
+}
+
+img {
+  width: 130px;
+  height: 130px;
+}
